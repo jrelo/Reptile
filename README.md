@@ -1,5 +1,10 @@
 # Reptile
 
+<h2 style="color:red; text-align:center;">
+⚠️ DISCLAIMER: This project is for research and archival purposes only.<br>
+Do not use for unethical, illegal, or unauthorized activities.
+</h2>
+
 <img align="left" src="https://imgur.com/nqujOlz.png">
 
 <br><br><br><br>Reptile is a LKM rootkit written for evil purposes that runs on kernel 2.6.x/3.x/4.x. 
